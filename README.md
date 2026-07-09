@@ -1,5 +1,10 @@
 <img width="2172" height="724" alt="ChatGPT Image Jul 9, 2026, 04_12_11 PM" src="https://github.com/user-attachments/assets/2910a64f-6bc8-43af-aa00-fd88f769bb26" />
-# Hi, I'm Sanchari Sarkar 👋
+<h1 align="center">
+  Hi, I'm Sanchari Sarkar 👋
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+Visibility+Consultant;GEO+Strategist;Helping+Brands+Get+Recommended+by+AI;Founder+of+Digital+Platform+271" />
+</p>
 
 I'm an AI Visibility Consultant and founder of Digital Platform 271.
 
