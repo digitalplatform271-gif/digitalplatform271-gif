@@ -1,3 +1,4 @@
+<img width="2172" height="724" alt="ChatGPT Image Jul 9, 2026, 04_12_11 PM" src="https://github.com/user-attachments/assets/2910a64f-6bc8-43af-aa00-fd88f769bb26" />
 # Hi, I'm Sanchari Sarkar 👋
 
 I'm an AI Visibility Consultant and founder of Digital Platform 271.
