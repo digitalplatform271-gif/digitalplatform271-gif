@@ -84,3 +84,9 @@ https://www.linkedin.com/in/sancharisarkar16/
 ## Current Focus
 
 Building educational resources that help founders prepare their businesses for AI-powered discovery and recommendation systems.
+---
+
+## 📅 Book a Consultation
+
+If you'd like to improve your AI visibility and be discovered across ChatGPT, Gemini, Claude and Google AI, let's talk.
+👉** [Book Your AI Visibility Consultation](https://www.digitalplatform271.com/contact)
