@@ -51,7 +51,7 @@ Find out how visible your business is across:
 
 ### 🔗 Live Demo
 
-https://www.digitalplatform271.com/audit
+[🚀 Try the AI Visibility Audit](https://www.digitalplatform271.com/audit)
 
 > Measure your AI Visibility Score and discover opportunities to improve your AI discoverability.
 
